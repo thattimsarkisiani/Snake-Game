@@ -25,7 +25,7 @@ const updateFoodPosition = () => {
 
 const handleGameOver = () => {
     clearInterval(setIntervalId);
-    alert("თამაში დასრულდა! გასაგრძელებლად დააჭირე OK");
+    alert("თამაში დასრულდა");
     location.reload();
 }
 
