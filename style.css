@@ -53,7 +53,7 @@ body{
 }
 
 .controls{
-    display:inline-table;
+    display:none;
     justify-content: space-between;
 }
 
